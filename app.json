@@ -89,6 +89,10 @@
         {
           "name": "gtr42",
           "deviceSource": 7930113
+        },
+        {
+          "name": "gtr43",
+          "deviceSource": 7864577
         }
       ],
       "designWidth": 466
