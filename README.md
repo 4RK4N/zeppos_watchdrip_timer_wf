@@ -1,6 +1,6 @@
  # ZeppOS Watchface for Watchdrip for GTS4mini, Falcon, Band 7 and GTR4
 
- # As I moved to a WearOS watch the peoject won't recieve any further updates from me. Anyone can fork it and change it in any way they like if they feel the beed to have it live on on someone's wrist.
+ # As I moved to a WearOS watch the project won't recieve any further updates from me. Anyone can fork it and change it in any way they like if they feel the need to have it live on on someone's wrist.
  
  <p align="center">
  <img src="https://github.com/4RK4N/zeppos_watchdrip_timer_wf/blob/b77f52999dbc1599ebe5a3f0775680b3a0f3ec48/assets/gts4mini/images/preview.png" alt="Watchface preview"/>
